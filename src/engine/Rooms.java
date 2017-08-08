@@ -953,7 +953,7 @@ public class Rooms {
 		// mapGrid [4][3]
 		System.out.println("\n[Living Quarters - Common Room]");
 		System.out.println("Long-term inhabitants of the mine find little solace within these walls. Despite");
-		System.out.println("all the comforts of home these, these cold unadorned passages give no perception of");
+		System.out.println("all the comforts of home, these cold unadorned passages give no perception of");
 		System.out.println("family. Excavated rock has been brought it and carved down to provide areas to sit");
 		System.out.println("and dine between shifts.");
 		System.out.println("\nObvious paths: (n)orth, (e)ast, and (w)est.");
